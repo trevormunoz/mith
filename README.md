@@ -16,6 +16,8 @@ Environment] docs.
 
 ## Publish
 
+Eventually we might want the published website to live somewhere else, but for now we are using GitHub Pages.
+
     npm run publish
     open https://umd-mith.github.io/mith/
 
