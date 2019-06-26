@@ -14,6 +14,11 @@ Install [Node] and [Git] and then:
 For more detailed instructions checkout the Gatsby [Set Up Your Development
 Environment] docs.
 
+## Publish
+
+    npm run publish
+    open https://umd-mith.github.io/mith/
+
 [Node]: https://nodejs.org/en/ 
 [Git]: https://git-scm.com/
 [Set Up Your Development Environment]: https://www.gatsbyjs.org/tutorial/part-zero/
