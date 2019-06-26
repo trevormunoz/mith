@@ -1,8 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
-  "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
-  "version": "0.1.0",
+  "name": "mith",
+  "description": "a static mith website",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -14,17 +13,19 @@
   },
   "dependencies": {
     "gatsby": "^2.10.4",
+    "gatsby-source-filesystem": "^2.1.1",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "react-icons": "^3.7.0"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/umd-mith/mith"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/umd-mith/mith/issues"
   }
 }
